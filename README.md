@@ -7,14 +7,14 @@ day-to-day work faster.
 
 ## What is in this repository
 
-Each project is a self-contained folder with its own source code, a `README.md`
+Each project is a self-contained folder with its own source code and a `README.md`
 explaining what it does, and any example files or sample data needed to run it.
 
 ## Projects
 
 ### 1. Excel Automation System
 
-A Python tool for automating routine work in Excel — cleaning sheets, filling in
+A Python tool for automating routine work in Excel, cleaning sheets, filling in
 formulas, running calculations across many files, and producing a consolidated output
 without manual copy-paste.
 
@@ -54,8 +54,8 @@ Working. Used on real spreadsheets.
 
 ### 2. Freelance Tracker Desktop App
 
-A desktop application for tracking freelance work — clients, projects, hours, and
-invoices. Built with PySide6 for the interface and SQLite (or the storage you chose)
+A desktop application for tracking freelance work, clients, projects, hours, and
+invoices. Built with PySide6 for the interface and SQLite
 underneath.
 
 **What it does**
@@ -121,7 +121,7 @@ python main.py --input data.xlsx --output report.xlsx
 
 ## About
 
-Maintained by Henry Oyoto — Electronics and Computer Engineer working in PCB design,
+Maintained by Henry Oyoto: Electronics and Computer Engineer working in PCB design,
 Python programming and technical documentation.
 
 - GitHub: https://github.com/HenryOyoto
