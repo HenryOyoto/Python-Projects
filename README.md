@@ -1,7 +1,7 @@
 # Python Projects
 
 A collection of Python projects covering automation, data handling, and small
-engineering-focused tools. Most of these were written to solve a specific problem —
+engineering-focused tools. Most of these were written to solve a specific problem,
 repetitive tasks, spreadsheets that needed automating, and small utilities that make
 day-to-day work faster.
 
